@@ -1,0 +1,174 @@
+Która substancja nie jest materia³em wybuchowym?
+Cyjanowodór
+Nitrogliceryna
+Dynamit
+Karbonit
+A
+Wska¿ imies³ów przymiotnikowy czynny:
+Napisawszy
+Pisaæ
+Napisany
+Picz¹cy
+D
+Rzymski bóg,opiekun sztuki lekarskiej,to:
+Eskulap
+Virtus
+Asklepios
+Honor
+A
+Cech¹ bajki jako utworu literackiego jest:
+Eufenizm
+Animizacja
+Alegorycznoœæ
+Groteska
+C
+Barok charakteryzowa³:
+Kult strachu,asceza,mrocznosæ
+Lekkoœæ,czyste barwy,nawi¹zania do antyku
+Minimalizm,prostota,symetria
+Przepych,kontrastowoœæ,mistycyzm
+D
+Co jest charakterystyczne dla roœlin z rodziny dzbanecznikowatych?
+S¹ miêso¿erne - ¿ywi¹ siê owadami
+Wytwarzaj¹ smaczny nektar,który gromadzony jest w liœciach-dzbanach
+Gromadz¹ zapasy wody w liœciach przypominaj¹cych dzbany
+Ich liœcie kszta³tu dzbankowatego s¹ tak du¿e,¿e zmieœci siê w nich cz³owiek
+A
+Maria Sk³odowska-Curie przyczyni³a siê do odkrycia dwóch nowych pierwiastków chemicznych.Jeden z nich to :
+Kadm
+Rad
+Ruten
+Rubid
+B
+Uzupe³nij tytu³ powieœci Juliusza Verne'a."_________ mil podmorskiej ¿eglugi"
+10000
+5000
+2000
+20000
+D
+Która z rzek nie przep³ywa przez Ameryke Po³udniow¹?
+Orinoko
+Jurua
+Parana
+Amur
+D
+Gromada gadów to inaczej:
+Insecta
+Reptilia
+Amphibia
+Arachnida
+B
+Letnie Igrzyska Olimpijskie w 2020 roku odbêd¹ siê w:
+Stambule
+Baku
+Tokio
+Madrycie
+C
+Ksiêstwo Polskie zosta³o podzielone na dzielnice w 1138 roku na mocy ustawy sukcesyjnej:
+Boles³aw II Œmia³ego
+Boles³awa I Chrobrego
+W³adys³awa I Hermana
+Boles³awa III Krzywoustego
+D
+Która z tych rzek by³a zwi¹zana z cywilizacj¹ Mezopotamii?
+Tybr
+Jangcy
+Eufrat
+Nil
+C
+Ostateczna klêska Napoleona mia³a miejsce w bitwie pod:
+Elb¹
+Somosierr¹
+Lipskiem
+Waterloo
+D
+Typ zmiennych o nazwie float przechowuje:
+Liczby calkowite
+Napisy
+Liczby zmiennoprzecinkowe
+Pojedyncze znaki
+C
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcja:
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+D
+Ktora deklaracja jest zapisana poprawnie?
+int x;
+integer x;
+x:integer;
+x=integer;
+A
+Z jakiego przedzialu zostanie wylosowana liczba: rand()%10+2
+0..9
+2..9
+2..11
+0..11
+C
+Ile razy wykona sie petla: for (int i=4; i>=-2; i--)
+Ani razu
+Nieskonczenie wiele razy
+6
+7
+D
+Ile rodzonych córek mia³a  macocha Kopciuszka w baœni braci Grimm?
+Dwie
+Trzy
+Cztery
+Piêæ
+A
+Co ³aczy rowerowa szprycha?
+Obrêcz z dêtk¹
+Dêtkê z piast¹
+Piastê z obrêcz¹
+Obrêcz z widelcem
+C
+Suspens to chwyt stosowany:
+W zapasach
+W grze na gitarze
+We wspinaczce klasycznej
+W filmach
+D
+Kto jest mistrzem tego samego orê¿a,w jakim specjalizowa³a siê mitologiczna Artemida?
+Legolas
+Don Kichot
+Longinus Podbipiêta
+Zorro
+A
+Z gry na jakim instrumenci s³ynie Czes³aw Mozil?
+Na ksylofonie
+Na djembe
+Na akordeonie
+Na kornecie
+C
+P³etw¹ grzbietowa nie pruje wody:
+Wal grenlandzki
+Orka
+D³ugoszpar
+Kosogon
+A
+Ile to jest 1111 razy 1111,jeœli 1 razy 1 to 1,a 11 razy 11 to 121?
+12 321
+1 234 321
+111 111 111
+123 454 321
+B
+Sk¹d pochodzi Conan Barbarzyñca?
+Z Rivii
+Z Oz
+Z Mordoru
+Z Cimmerii
+D
+Który ssak siê nie poci?
+Owca
+Koñ
+Cz³owiek
+Królik
+D
+Ró¿añcow¹ tajemnic¹ chwalebn¹ nie jest?
+Wniebowziêcie Matki Bo¿ej
+Zmartwychwstanie Jezusa
+Œmieræ Jezusa na krzy¿u
+Zes³anie Ducha Œwiêtego
+C
